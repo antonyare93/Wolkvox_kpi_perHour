@@ -1,1 +1,1 @@
-credentials = [['0025', '7b69645f6469737472697d2d3230323130393238313034393238']]
+credentials = [['server_num', 'token_num']]
